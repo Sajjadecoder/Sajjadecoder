@@ -72,6 +72,4 @@ I'm a Computer Science student with a love for building scalable, user-centric w
   
 ### 💡 *"Always learning, always building. Open to collaboration on innovative projects!"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sajjadecoder&color=blueviolet&style=flat-square)
-
 </div>
