@@ -1,6 +1,6 @@
-# Hi there, I'm Ahmed 👋
+# Hi there, I'm Sajjad Ahmed 👋
 
-### Full-Stack Developer | ML Enthusiast | Passionate Problem Solver
+### Full-Stack Developer | AI Enthusiast | Passionate Problem Solver
 
 I'm a Computer Science student with a love for building scalable, user-centric web applications. I thrive on turning ideas into functional, impactful solutions and continuously expanding my skill set with emerging technologies.
 
