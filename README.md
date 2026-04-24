@@ -1,11 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:0d1117,50:1a2332,100:0d1117&fontColor=58a6ff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&descColor=3fb950&stroke=58a6ff&strokeWidth=1" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:0d1117,50:1a2332,100:0d1117&fontColor=58a6ff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&descColor=3fb950&stroke=58a6ff&strokeWidth=1" width="100%" alt="Sajjad Ahmed - AI Software Engineer" />
-</picture>
+[![Header](https://capsule-render.vercel.app/api?type=venom&height=220&text=Sajjad%20Ahmed&fontSize=65&fontColor=58a6ff&color=0:0d1117,50:161b22,100:0d1117&animation=fadeIn&desc=AI%20Software%20Engineer&descSize=18&descColor=3fb950&descAlignY=75&stroke=1c6ef3&strokeWidth=1)](https://github.com/Sajjadecoder)
 
-</div>
 </div>
 
 ---
@@ -13,7 +9,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjadecoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&hide=cpp)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjadecoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&hide=cpp)
@@ -28,7 +24,7 @@
 
 <div align="center">
 
-**Languages**  
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -37,7 +33,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-**Frontend**  
+**Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -45,7 +41,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-**Backend**  
+**Backend**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -61,6 +57,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
+
 </div>
 
 ### **Key Competencies**
@@ -84,8 +81,8 @@
 
 ## 🎯 Current Trajectory
 
-- 🏗️ Architecting **scalable backend systems** 
-- 🤖 Integrating **AI models** into web applications  
+- 🏗️ Architecting **scalable backend systems**
+- 🤖 Integrating **AI models** into web applications
 - 📚 Mastering **system design** and **distributed systems**
 
 ---
