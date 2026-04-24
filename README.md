@@ -1,7 +1,11 @@
-#  Sajjad Ahmed
+<div align="center">
 
-### AI Software Engineer
-*Building high-performance applications that bridge innovation and real-world impact.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:58a6ff,50:3fb950,100:58a6ff&fontColor=ffffff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&stroke=58a6ff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:58a6ff,50:3fb950,100:58a6ff&fontColor=ffffff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&stroke=58a6ff&strokeWidth=1" width="100%" alt="Sajjad Ahmed - AI Software Engineer" />
+</picture>
+
+</div>
 
 ---
 
