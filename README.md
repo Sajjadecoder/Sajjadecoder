@@ -1,10 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:58a6ff,50:3fb950,100:58a6ff&fontColor=ffffff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&stroke=58a6ff&strokeWidth=1" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:58a6ff,50:3fb950,100:58a6ff&fontColor=ffffff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&stroke=58a6ff&strokeWidth=1" width="100%" alt="Sajjad Ahmed - AI Software Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:0d1117,50:1a2332,100:0d1117&fontColor=58a6ff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&descColor=3fb950&stroke=58a6ff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sajjad%20Ahmed&fontSize=60&color=0:0d1117,50:1a2332,100:0d1117&fontColor=58a6ff&animation=fadeIn&desc=AI%20Software%20Engineer&descAlignY=75&descSize=16&descColor=3fb950&stroke=58a6ff&strokeWidth=1" width="100%" alt="Sajjad Ahmed - AI Software Engineer" />
 </picture>
 
+</div>
 </div>
 
 ---
