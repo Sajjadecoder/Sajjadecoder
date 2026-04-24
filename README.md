@@ -1,7 +1,6 @@
-# 👋 Sajjad Ahmed
+#  Sajjad Ahmed
 
-### Full-Stack Developer | AI/ML Specialist | Scalable Systems Architect
-
+### AI Software Engineer
 *Building high-performance applications that bridge innovation and real-world impact.*
 
 ---
@@ -11,8 +10,6 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjadecoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjadecoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3)
 
 </div>
 
@@ -24,18 +21,18 @@
 ```
 Languages:     Python | JavaScript | C++ | C | TypeScript
 Frontend:      React | Tailwind CSS | HTML5 | CSS3
-Backend:       Node.js | Express.js | Flask | Django REST
+Backend:       Node.js | Express.js | Flask | Django REST | FastAPI
 Databases:     PostgreSQL | MongoDB
 AI/ML:         NumPy | Pandas | scikit-learn
 DevOps/Cloud:  Git | Vercel | Cloudinary | REST APIs
 ```
 
 ### **Key Competencies**
-- ⚡ **Full-Stack Architecture**: MERN & PERN stack applications with production-grade performance
+- ⚡ **Full-Stack Architecture**: MERN & PERN stack applications
 - 🤖 **Machine Learning**: 3 certifications | End-to-end ML pipeline development
 - 📐 **Scalable Systems**: Database optimization, API design, system architecture
 - 🎨 **UI/UX Engineering**: Responsive design, accessibility, performance optimization
-- 🔐 **Best Practices**: Clean code, security, testing, CI/CD workflows
+- 🔐 **Best Practices**: Clean code, security, testing
 
 ---
 
@@ -43,19 +40,17 @@ DevOps/Cloud:  Git | Vercel | Cloudinary | REST APIs
 
 | Project | Tech Stack | Highlights |
 |---------|-----------|-----------|
-| **Full-Stack E-Commerce Platform** | MERN | Real-time updates, payment integration, optimized queries |
-| **ML-Powered Recommendation System** | Python, scikit-learn | Production pipeline with 90%+ accuracy |
-| **RESTful API Suite** | Node.js, PostgreSQL | 1000+ req/sec throughput, comprehensive documentation |
-| **Data Analysis Dashboard** | React, Pandas | Real-time analytics, 500+ data points visualized |
+| **Full-Stack CrowdFunding Platform** | React JS, Flask, PostgreSQL | Real-time campaigns, updates, donations, RAG |
+| **ML-Powered Classification System** | Python, scikit-learn | Pipeline with 90%+ accuracy |
+| **Event Management System** | React JS, Node.js | Events display, booking event seat |
 
 ---
 
 ## 🎯 Current Trajectory
 
-- 🏗️ Architecting **scalable backend systems** with microservices
-- 🤖 Integrating **advanced AI models** into web applications  
+- 🏗️ Architecting **scalable backend systems** 
+- 🤖 Integrating **AI models** into web applications  
 - 📚 Mastering **system design** and **distributed systems**
-- 🔬 Contributing to **open-source** machine learning projects
 
 ---
 
