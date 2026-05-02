@@ -4,19 +4,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjadecoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&hide=cpp)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjadecoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&hide=cpp)
-
-</div>
-
----
 
 ## 🚀 Technical Expertise
 
