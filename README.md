@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a0a,50:0d4a1a,100:0a2a0a&height=200&section=header&text=Sajjad%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Backend%20Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Scientist&descAlignY=65&descSize=16&descColor=cccccc&animation=fadeIn" />
 </div>
 
-## 🚀 Technical Expertise
+## Technical Expertise
 
 ### **Core Technologies**
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 💼 Notable Projects
+## Notable Projects
 
 | Project | Tech Stack | Highlights |
 |---------|-----------|-----------|
@@ -63,7 +63,7 @@
 
 ---
 
-## 🎯 Current Trajectory
+## Current Trajectory
 
 - 🏗️ Architecting **scalable backend systems**
 - 🤖 Integrating **AI models** into web applications
@@ -75,7 +75,6 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadahmed102005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-ahmed-7904952b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sajjadecoder)
 
