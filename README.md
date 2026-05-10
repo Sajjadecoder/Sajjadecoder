@@ -1,9 +1,6 @@
 <div align="center">
-
-[![Header](https://capsule-render.vercel.app/api?type=venom&height=220&text=Sajjad%20Ahmed&fontSize=65&fontColor=58a6ff&color=0:0d1117,50:161b22,100:0d1117&animation=fadeIn&desc=AI%20Software%20Engineer&descSize=18&descColor=3fb950&descAlignY=75&stroke=1c6ef3&strokeWidth=1)](https://github.com/Sajjadecoder)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a0a,50:0d4a1a,100:0a2a0a&height=200&section=header&text=Sajjad%20Ahmed&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Backend%20Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20ML%20Computer%20Scientist&descAlignY=65&descSize=16&descColor=cccccc&animation=fadeIn" />
 </div>
-
 
 ## 🚀 Technical Expertise
 
